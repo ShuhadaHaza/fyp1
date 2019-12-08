@@ -1,0 +1,1 @@
+export const COMPONENT_FETCH_SUCCESS = 'component_fetch_success';
